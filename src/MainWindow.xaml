@@ -205,7 +205,7 @@
 					FontFamily="Verdana"
 					FontSize="12"
 					FontWeight="Bold"
-					Foreground="#909090" Margin="0,1,0,0"><Run Language="pt-br" Text="Globalzera Custom"/></TextBlock>
+					Foreground="#909090" Margin="0,1,0,0"><Run Language="pt-br" Text="Hellgate Global"/></TextBlock>
                 <Grid
 					Grid.Row="1"
 					Margin="10, 3, 10, 3">
