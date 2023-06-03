@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/QuebradaZN/hellgate/releases/download/1.0.0.3/client.zip",
+	"newClientUrl" : "https://github.com/QuebradaZN/hellgate/releases/download/1.0.0.4/client.zip",
 	"clientExecutable": "client.exe"
 }
