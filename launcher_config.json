@@ -9,9 +9,9 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/molten.exe"
 */
 {
-	"clientVersion": "13.16.13210",
+	"clientVersion": "13.16.13211",
 	"launcherVersion": "1.6",
-	"replaceFolders": false,
+	"replaceFolders": true,
 	"replaceFolderName": [
 		{
 			"name": "assets"
